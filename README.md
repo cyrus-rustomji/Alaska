@@ -1,1 +1,1 @@
-# Alaska Airlines Interview Qurstions
+# Alaska Airlines Interview Questions
